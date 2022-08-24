@@ -17,7 +17,8 @@ namespace LanguageBasicsDemo
 
             double area = pi * radius * radius;
             Console.WriteLine(area);
-
+            Console.WriteLine("push to git");
+            Console.WriteLine("One more push to git");
 
             //comment---(Select the code to comment)Ctrl+ K+ C
            // Console.WriteLine("Enter a string");
